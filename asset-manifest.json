@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nirvan1234/searchgif/static/css/main.cac191a2.css",
+    "main.js": "/nirvan1234/searchgif/static/js/main.c3a57545.js",
+    "index.html": "/nirvan1234/searchgif/index.html",
+    "main.cac191a2.css.map": "/nirvan1234/searchgif/static/css/main.cac191a2.css.map",
+    "main.c3a57545.js.map": "/nirvan1234/searchgif/static/js/main.c3a57545.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cac191a2.css",
+    "static/js/main.c3a57545.js"
+  ]
+}
