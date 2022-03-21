@@ -1,0 +1,21 @@
+.gifs {
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .gif {
+    padding: 0 2px;
+  
+    
+  }
+  .commentboxNew{
+    border-radius: 20px;
+    border: 1px solid gray;
+    outline: none;
+    background-color: #F2F3F5;
+    height: 27px !important;
+    width: 200px;
+    padding: 5px;
+  }
